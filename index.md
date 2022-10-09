@@ -35,13 +35,7 @@ We are interested in cell polarity, and stress. We mainly use the yeast _Schizos
 {% capture text %}
 Our laboratory is interested in two main areas related to cellular and cytoskeletal organisation: 1) the molecular mechanisms underlying microtubule nucleation; and 2) the regulation of cell polarity, in a systems context, under both normal and stress conditions. In both areas we use the fission yeast Schizosaccharomyces pombe as a model eukaryotic organism. We combine classical and molecular genetic analysis with live-cell fluorescence microscopy, biochemistry, proteomics and computational modelling.
 
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+
 {:.center}
 {% endcapture %}
 
@@ -49,7 +43,6 @@ Our laboratory is interested in two main areas related to cellular and cytoskele
   include feature.html
   image="images/research1.png"
   link="research"
-  title="Our Research"
   text=text
 %}
 
@@ -74,8 +67,8 @@ An important component of our work involves developing new tools in genetics, mi
 
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link="research"
+  text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -85,10 +78,7 @@ An important component of our work involves developing new tools in genetics, mi
 {%
   include feature.html
   image="images/research3.png"
-  link="team"
-  title="Our Team"
+  link="research"
+  title="Past projects"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
