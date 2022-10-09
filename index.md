@@ -6,22 +6,6 @@ title: Home
 
 We are interested in cell polarity and stress. We mainly use the yeast _Schizosaccharomyces pombe_ as a model organism and apply a variety of techinques including genetics, microscopy, and proteomics.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
@@ -56,8 +40,6 @@ Microtubule nucleation in all eukaryotic cells depends on the γ-tubulin complex
 {%
   include feature.html
   image="images/research2.png"
-  link="resources"
-  title="Our Resources"
   flip=true
   text=text
 %}
