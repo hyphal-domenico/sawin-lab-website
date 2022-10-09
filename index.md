@@ -4,7 +4,7 @@ title: Home
 
 # Welcome to the Sawin Lab!
 
-We are interested in cell polarity, and stress. We mainly use the yeast _Schizosaccharomyces pombe_ as a model organism. 
+We are interested in cell polarity, and stress. We mainly use the yeast _Schizosaccharomyces pombe_ as a model organism.
 
 {%
   include link.html
@@ -30,11 +30,10 @@ We are interested in cell polarity, and stress. We mainly use the yeast _Schizos
 
 {% include section.html %}
 
-# Highlights
+# Our Research
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our laboratory is interested in two main areas related to cellular and cytoskeletal organisation: 1) the molecular mechanisms underlying microtubule nucleation; and 2) the regulation of cell polarity, in a systems context, under both normal and stress conditions. In both areas we use the fission yeast Schizosaccharomyces pombe as a model eukaryotic organism. We combine classical and molecular genetic analysis with live-cell fluorescence microscopy, biochemistry, proteomics and computational modelling.
 
 {%
   include link.html
@@ -48,29 +47,22 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research1.png"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Microtubule nucleation in all eukaryotic cells depends on the γ-tubulin complex (γ-TuC), a multi-protein complex enriched at microtubule organizing centres such as the centrosome. The spatial and temporal regulation of the γ-TuC remains largely a mystery. We discovered the fission yeast proteins Mto1 and Mto2, which form an oligomeric complex (the Mto1/2 complex) that targets the γ-TuC to different sites in the cell and also activates γ-TuC during the cell cycle. Mutations in the human homolog of Mto1 lead to the brain disease microcephaly. Our current work involves understanding the mechanism of γ-TuC activation by the Mto1/2 complex, through genetic approaches in yeast, and through expression, purification and characterization of recombinant multi-protein complexes in insect cells, in vitro functional reconstitution, and structural biology analysis, including X-ray crystallography. We are also using new methods to investigate how the Mto1/2 complex is localized to different subcellular structures.
 
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research2.png"
   link="resources"
   title="Our Resources"
   flip=true
@@ -78,7 +70,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+An important component of our work involves developing new tools in genetics, microscopy, and proteomics. This includes a robust platform for differential proteomics in fission yeast, using Stable Isotope Labeling by Amino Acids in Culture (SILAC), which we are applying to global analysis of protein phosphorylation in cell polarity, and new methods for interrogating protein-protein interactions in complex “solid-phase” organelles.
 
 {%
   include link.html
@@ -92,7 +84,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research3.png"
   link="team"
   title="Our Team"
   text=text
