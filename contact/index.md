@@ -7,25 +7,25 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [School of Biological Sciences](https://www.ed.ac.uk/biology) at the University of Edinburgh.
+We are located on the 4th floor of the [Wellcome Centre for Cell Biology](https://www.wcb.ed.ac.uk).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="ken.sawin@ed.ac.uk"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="ken.sawin@ed.ac.uk"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="+44 (0)131 650 7064"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+44 131 650 7064"
   style="button"
 %}
 {%
@@ -34,7 +34,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps?q=Michael+Swann+Building,+King%27s+Buildings,+Edinburgh,+UK&ll=55.924634,-3.17462&spn=0.029046,0.092182&sll=37.0796465826016,-95.76678664320204&sspn=76.88164146107661,102.38890067050892&t=m&dg=opt&hq=Michael+Swann+Building,+King%27s+Buildings,&hnear=Edinburgh,+City+of+Edinburgh,+United+Kingdom&z=14"
   style="button"
 %}
 {:.center}
@@ -43,10 +43,14 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
-{:.center}
+Kenneth E. Sawin, Ph.D.  
+Professor of Cell Biology  
+The Wellcome Trust Centre for Cell Biology  
+School of Biological Sciences, University of Edinburgh  
+Michael Swann Building, Max Born Crescent  
+Edinburgh EH9  3BF  
+United Kingdom  
+{:.left}
 
 {% capture col1 %}
 {%
