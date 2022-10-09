@@ -1,7 +1,7 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
+title: Sawin Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
 header: images/background.jpg
@@ -10,7 +10,7 @@ baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
+  email: ken.sawin@ed.ac.uk
   google-scholar: Jane Smith
   github: your-lab
   twitter: YourLabHandle

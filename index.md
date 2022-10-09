@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Welcome to the Sawin Lab!
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+We are interested in cell polarity, and stress. We mainly use the yeast _Schizosaccharomyces pombe_ as a model organism. 
 
 {%
   include link.html
