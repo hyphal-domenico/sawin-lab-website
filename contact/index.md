@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [School of Biological Sciences](https://www.ed.ac.uk/biology) at the University of Edinburgh.
-We are located on the 4th floor of the [Wellcome Centre for Cell Biology](https://www.wcb.ed.ac.uk).
+We are part of the [Wellcome Centre for Cell Biology](https://www.wcb.ed.ac.uk), and are located on the 4<sup>th</sup> floor of the Michael Swann building.
 
 {%
   include link.html
@@ -41,7 +41,11 @@ We are located on the 4th floor of the [Wellcome Centre for Cell Biology](https:
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+
+{% capture col1content %}
+
+### <i class="fas fa-mail-bulk"></i>Mailing Address  
+{:.left}
 
 Kenneth E. Sawin, Ph.D.  
 Professor of Cell Biology  
@@ -50,20 +54,18 @@ School of Biological Sciences, University of Edinburgh
 Michael Swann Building, Max Born Crescent  
 Edinburgh EH9  3BF  
 United Kingdom  
-{:.left}
 
-{% capture col1 %}
+
+{:.left}
+{% endcapture %}
+
+{% capture col2content %}
+
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/swann.jpg"
+  caption="Michael Swann Building"
+  width = "300px"
 %}
 {% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+{% include two-col.html col1=col1content col2=col2content %}

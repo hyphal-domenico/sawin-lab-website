@@ -4,18 +4,13 @@
 title: Sawin Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background.png
+footer: images/background.png
 baseurl: /lab-website-template
 
 # site social media and other links
 links:
   email: ken.sawin@ed.ac.uk
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
 
 ### advanced settings
 

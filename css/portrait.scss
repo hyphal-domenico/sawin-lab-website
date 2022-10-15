@@ -45,21 +45,4 @@
     font-size: 0.9rem;
   }
 
-  .role {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    left: calc(0.13 * var(--width));
-    top: calc(0.13 * var(--width));
-    margin: 0;
-    width: calc(0.25 * var(--width));
-    height: calc(0.25 * var(--width));
-    font-size: calc(16 * var(--width) / 150);
-    background: $white;
-    color: $gray-500;
-    border-radius: 999px;
-    transform: translate(-50%, -50%);
-    box-shadow: $shadow;
-  }
 }

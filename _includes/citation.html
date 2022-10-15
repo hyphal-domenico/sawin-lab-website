@@ -1,6 +1,6 @@
 {%- assign emptyarray = "" | split: "," -%}
 {%- assign output = site.auto-cite.output | default: "citations" | split: "/" | last | split: "." | pop | join: "" -%}
-{%- assign citations = site.data[output] | default: emptyarray -%} 
+{%- assign citations = site.data[output] | default: emptyarray -%}
 
 {%- assign citation = nil -%}
 {%- if include.lookup -%}
@@ -18,26 +18,6 @@
 {%- if include.style == "rich" -%}
   {%- assign rich = true -%}
 {%- endif -%}
-
-{%- assign placeholder = "images/placeholder.svg" | relative_url -%}
-
-<div class="citation" data-style="{{ include.style }}">
-  {%- assign id = citation.id | default: "" -%}
-  {%- assign link = citation.link | default: "" -%}
-  {%- assign image = citation.image | default: "" -%}
-  {%- if rich -%}
-    <div class="citation_image">
-      <a href="{{ link }}">
-        <img
-          src="{{ image | relative_url }}"
-          onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
-          data-tooltip="{{ id }}"
-          loading="lazy"
-          alt="Citation thumbnail"
-        >
-      </a>
-    </div>
-  {%- endif -%}
 
   <div class="citation_text">
     {%- assign title = citation.title | default: "" -%}
@@ -78,5 +58,5 @@
         {%- endfor -%}
       </div>
     {%- endif -%}
+    <br>
   </div>
-</div>

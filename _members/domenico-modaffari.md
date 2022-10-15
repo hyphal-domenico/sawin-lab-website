@@ -3,7 +3,6 @@ name: Domenico Modaffari
 image: images/member.jpg
 description: PhD Student
 role: phd
-group: alum
 aliases:
   - D. Modaffari
   - D Modaffari

@@ -1,2 +1,692 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1101/754457
+  title: Architecture of the Mto1/2 microtubule nucleation complex
+  authors:
+  - Harish C. Thakur
+  - Eric M. Lynch
+  - Weronika E. Borek
+  - Xun X. Bao
+  - Sanju Ashraf
+  - Juan Zou
+  - Juri Rappsilber
+  - Atlanta G. Cook
+  - Kenneth E. Sawin
+  publisher: bioRxiv
+  date: '2019-08-31'
+  link: https://doi.org/gk25zv
+  _cache: c8dee9662e434f7b5101560f4bc5132c315e68a9e51cb3fd2b614d399547a22d
+- id: pubmed:33602740
+  title: Microtubule-independent movement of the fission yeast nucleus.
+  authors:
+  - Sanju Ashraf
+  - Ye Dee Tay
+  - David A Kelly
+  - Kenneth E Sawin
+  publisher: Journal of cell science
+  date: '2021-03-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33602740
+  _cache: 5626c1119482ece366ed3763050170d016f26c075ba93f008c686a430a79c59b
+- id: pubmed:31474649
+  title: Identification of 15 New Bypassable Essential Genes of Fission Yeast.
+  authors:
+  - Aoi Takeda
+  - Shigeaki Saitoh
+  - Hiroyuki Ohkura
+  - Kenneth E Sawin
+  - Gohta Goshima
+  publisher: Cell structure and function
+  date: '2019-08-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31474649
+  _cache: af40084bb5b70706d9381f2f03ff150775b68b4d5375914435c1b312ba543d91
+- id: pubmed:31287970
+  title: "Reconstitution of Microtubule Nucleation In\_Vitro Reveals Novel Roles for\
+    \ Mzt1."
+  authors:
+  - Su Ling Leong
+  - Eric M Lynch
+  - Juan Zou
+  - Ye Dee Tay
+  - Weronika E Borek
+  - Maarten W Tuijtel
+  - Juri Rappsilber
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2019-07-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31287970
+  _cache: 2d91f2e60980d21f4c58e0bef2fe119ee472ae58e8894d73eb4e077a10ca9b33
+- id: pubmed:30726745
+  title: Fission Yeast NDR/LATS Kinase Orb6 Regulates Exocytosis via Phosphorylation
+    of the Exocyst Complex.
+  authors:
+  - Ye Dee Tay
+  - Marcin Leda
+  - Christos Spanos
+  - Juri Rappsilber
+  - Andrew B Goryachev
+  - Kenneth E Sawin
+  publisher: Cell reports
+  date: '2019-02-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30726745
+  _cache: 94581b4750c59459b63177cfa1d069f0405aa4c7cff54d16b6350ce259e3103b
+- id: pubmed:29930085
+  title: Local and global Cdc42 guanine nucleotide exchange factors for fission yeast
+    cell polarity are coordinated by microtubules and the Tea1-Tea4-Pom1 axis.
+  authors:
+  - Ye Dee Tay
+  - Marcin Leda
+  - Andrew B Goryachev
+  - Kenneth E Sawin
+  publisher: Journal of cell science
+  date: '2018-07-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29930085
+  _cache: 4bdb4f86e3d3052d003e9b9ac2738a8ce50ea11c536b630e4937ab50eab1b294
+- id: pubmed:29809148
+  title: Exportin Crm1 is repurposed as a docking protein to generate microtubule
+    organizing centers at the nuclear pore.
+  authors:
+  - Xun X Bao
+  - Christos Spanos
+  - Tomoko Kojidani
+  - Eric M Lynch
+  - Juri Rappsilber
+  - Yasushi Hiraoka
+  - Tokuko Haraguchi
+  - Kenneth E Sawin
+  publisher: eLife
+  date: '2018-05-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29809148
+  _cache: bc4d4082b5dd862fa6214de5de53b7314483187b37129c4785a0ed33dfc71b69
+- id: pubmed:28572211
+  title: Stable Isotope Labeling by Amino Acids in Cell Culture (SILAC) Technology
+    in Fission Yeast.
+  authors:
+  - "Boris Ma\u010Dek"
+  - Alejandro Carpy
+  - "Andr\xE9 Koch"
+  - Claudia C Bicho
+  - Weronika E Borek
+  - Silke Hauf
+  - Kenneth E Sawin
+  publisher: Cold Spring Harbor protocols
+  date: '2017-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28572211
+  _cache: a28c369467b3a0daa8bc5cadc09235df5d550cb8f4d70763d1d010eeb342346b
+- id: pubmed:28572185
+  title: Stable Isotope Labeling by Amino Acids in Cell Culture (SILAC)-Based Quantitative
+    Proteomics and Phosphoproteomics in Fission Yeast.
+  authors:
+  - Alejandro Carpy
+  - "Andr\xE9 Koch"
+  - Claudia C Bicho
+  - Weronika E Borek
+  - Silke Hauf
+  - Kenneth E Sawin
+  - "Boris Ma\u010Dek"
+  publisher: Cold Spring Harbor protocols
+  date: '2017-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28572185
+  _cache: ba25e95d2cabf2392a9db774adda2ab52cd90f38fae0cec0659c4757ea609808
+- id: pubmed:28572184
+  title: Construction, Growth, and Harvesting of Fission Yeast Stable Isotope Labeling
+    by Amino Acids in Cell Culture (SILAC) Strains.
+  authors:
+  - "Andr\xE9 Koch"
+  - Claudia C Bicho
+  - Weronika E Borek
+  - Alejandro Carpy
+  - "Boris Ma\u010Dek"
+  - Silke Hauf
+  - Kenneth E Sawin
+  publisher: Cold Spring Harbor protocols
+  date: '2017-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28572184
+  _cache: edb3cf796d61ee4d2d61ae2cd9bb5492a4a655bb85dd04af4a74221f0401bc75
+- id: pubmed:27746023
+  title: Remodeling of the Fission Yeast Cdc42 Cell-Polarity Module via the Sty1 p38
+    Stress-Activated Protein Kinase Pathway.
+  authors:
+  - Delyan R Mutavchiev
+  - Marcin Leda
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2016-10-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27746023
+  _cache: 922d80cd146ab2cb17ee40db80233909c57b0423c595ebbf978005a83c91f536
+- id: pubmed:26243668
+  title: Mto2 multisite phosphorylation inactivates non-spindle microtubule nucleation
+    complexes during mitosis.
+  authors:
+  - Weronika E Borek
+  - Lynda M Groocock
+  - Itaru Samejima
+  - Juan Zou
+  - Flavia de Lima Alves
+  - Juri Rappsilber
+  - Kenneth E Sawin
+  publisher: Nature communications
+  date: '2015-08-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26243668
+  _cache: 41e8016afc73e61d6f2f29a04ae3c3a5246adf3bfdabc931d9712f8adacd8afb
+- id: pubmed:26075619
+  title: Deletion of Genes Encoding Arginase Improves Use of "Heavy" Isotope-Labeled
+    Arginine for Mass Spectrometry in Fission Yeast.
+  authors:
+  - Weronika E Borek
+  - Juan Zou
+  - Juri Rappsilber
+  - Kenneth E Sawin
+  publisher: PloS one
+  date: '2015-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26075619
+  _cache: ae0310147f874771b73b9d64fde9c4b657a7483b10adb96215856a09461fcce6
+- id: doi:10.1083/jcb.201311097
+  title: "Pom1 regulates the assembly of Cdr2\u2013Mid1 cortical nodes for robust\
+    \ spatial control of cytokinesis"
+  authors:
+  - Sergio A. Rincon
+  - Payal Bhatia
+  - Claudia Bicho
+  - "Merc\xE8 Guzman-Vendrell"
+  - Vincent Fraisier
+  - Weronika E. Borek
+  - Flavia de Lima Alves
+  - Florent Dingli
+  - Damarys Loew
+  - Juri Rappsilber
+  - Kenneth E. Sawin
+  - Sophie G. Martin
+  - Anne Paoletti
+  publisher: Journal of Cell Biology
+  date: '2014-06-30'
+  link: https://doi.org/f589d5
+  _cache: ef7173a457f75afafa82c8f5cdc52688a11bf05e981ab09f925752bc0fdd344b
+- id: pubmed:24704079
+  title: "Activation of the \u03B3-tubulin complex by the Mto1/2 complex."
+  authors:
+  - Eric M Lynch
+  - Lynda M Groocock
+  - Weronika E Borek
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2014-04-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24704079
+  _cache: 3f8670c8f65853e1dbddaf5b34ad251d8e1f8a94fd580d5cec6abee942293310
+- id: pmc:PMC3113670
+  title: Characterization of Mug33 reveals complementary roles for actin cable-dependent
+    transport and exocyst regulators in fission yeast exocytosis
+  authors:
+  - Hilary A Snaith
+  - James Thompson
+  - John R Yates
+  - Kenneth E Sawin
+  publisher: Journal of cell science
+  date: '2011-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113670/
+  _cache: 5f6744a08a19584e4319d778daa604146693bfdb12c96e9c0468482fa4568bdf
+- id: pmc:PMC3065382
+  title: "Microtubule stabilization in vivo by nucleation-incompetent \u03B3-tubulin\
+    \ complex"
+  authors:
+  - Andreas Anders
+  - Kenneth E Sawin
+  publisher: Journal of cell science
+  date: '2011-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3065382/
+  _cache: d5a05b06103ba47a5c9d06d468c86ab67ffc0ce0876ddff736852c9321dc0cbc
+- id: pmc:PMC2989437
+  title: Fission yeast Mto1 regulates diversity of cytoplasmic microtubule organizing
+    centers
+  authors:
+  - Itaru Samejima
+  - Victoria J Miller
+  - Sergio A Rincon
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2010-11-09'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989437/
+  _cache: af32f9eb8823b1a1bed896953f800a19d7a10e1223aea2f59108b6edc2c01384
+- id: pmc:PMC3094757
+  title: A catalytic role for Mod5 in the formation of the Tea1 cell polarity landmark
+  authors:
+  - Claudia C Bicho
+  - David A Kelly
+  - Hilary A Snaith
+  - Andrew B Goryachev
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2010-10-12'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094757/
+  _cache: 47362b94340f9141fb048f9f29dc5c31c28b9030a3ea3ec0fba7aa862661de4f
+- id: pubmed:20719270
+  title: New and old reagents for fluorescent protein tagging of microtubules in fission
+    yeast; experimental and critical evaluation.
+  authors:
+  - Hilary A Snaith
+  - Andreas Anders
+  - Itaru Samejima
+  - Kenneth E Sawin
+  publisher: Methods in cell biology
+  date: '2010-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20719270
+  _cache: 28a9ad9f7f19ffb1830290491946026df8dfeccd5aa32705bd54be115f39656c
+- id: pmc:PMC2896365
+  title: A genetic engineering solution to the "arginine conversion problem" in stable
+    isotope labeling by amino acids in cell culture (SILAC)
+  authors:
+  - Claudia C Bicho
+  - Flavia de Lima Alves
+  - Zhuo A Chen
+  - Juri Rappsilber
+  - Kenneth E Sawin
+  publisher: 'Molecular & cellular proteomics : MCP'
+  date: '2010-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896365/
+  _cache: ed64f8a01135365ae30b3ac82f0d9db48ccbd072ad12d1876dcd60da2f850afa
+- id: pmc:PMC2810510
+  title: Inexpensive synthetic-based matrix for both conventional and rapid purification
+    of protein A- and tandem affinity purification-tagged proteins
+  authors:
+  - Kenneth E Sawin
+  - Claudia C Bicho
+  - Hilary A Snaith
+  publisher: Analytical biochemistry
+  date: '2010-02-15'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810510/
+  _cache: 2a2b702cbcc0b8c21aa49939a957cc9989d10da691bde51797fa84c303ebf337
+- id: pubmed:19516326
+  title: 'Cell cycle: Cell division brought down to size.'
+  authors:
+  - Kenneth E Sawin
+  publisher: Nature
+  date: '2009-06-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19516326
+  _cache: 57bdc895f27116e5f86b214411dcfe06e0109bec73ef5c7a40e4144784ecbb17
+- id: pubmed:19160458
+  title: 'Improved tools for efficient mapping of fission yeast genes: identification
+    of microtubule nucleation modifier mod22-1 as an allele of chromatin- remodelling
+    factor gene swr1.'
+  authors:
+  - Andreas Anders
+  - Stephen Watt
+  - "J\xFCrg B\xE4hler"
+  - Kenneth E Sawin
+  publisher: Yeast (Chichester, England)
+  date: '2008-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19160458
+  _cache: 2535d2ca18f5a4da4f2900eb9d5b08b2114054cacaf95504943878aeb6cbe554
+- id: pmc:PMC2964509
+  title: 'Improved tools for efficient mapping of fission yeast genes: identification
+    of microtubule nucleation modifier mod22-1 as an allele of chromatin- remodelling
+    factor gene swr1'
+  authors:
+  - Andreas Anders
+  - Stephen Watt
+  - "J\xFCrg B\xE4hler"
+  - Kenneth E Sawin
+  publisher: Yeast (Chichester, England)
+  date: '2008-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2964509/
+  _cache: ef6371fd6bb615a03fa30ee2ac8f23c43f5ec6bfc4c01bf4e27ed90bda3cda89
+- id: pmc:PMC2743986
+  title: Two distinct regions of Mto1 are required for normal microtubule nucleation
+    and efficient association with the gamma-tubulin complex in vivo
+  authors:
+  - Itaru Samejima
+  - Victoria J Miller
+  - Lynda M Groocock
+  - Kenneth E Sawin
+  publisher: Journal of cell science
+  date: '2008-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743986/
+  _cache: 75020447cdd3ec6e570b9e6e1eda0239d317b232d3439edfe8ccf22c93ccd91b
+- id: pmc:PMC2590763
+  title: Comment on "A centrosome-independent role for gamma-TuRC proteins in the
+    spindle assembly checkpoint"
+  authors:
+  - Stephen S Taylor
+  - Kevin G Hardwick
+  - Kenneth E Sawin
+  - Sue Biggins
+  - Simonetta Piatti
+  - Alexey Khodjakov
+  - Conly L Rieder
+  - Edward D Salmon
+  - Andrea Musacchio
+  publisher: Science (New York, N.Y.)
+  date: '2007-05-18'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2590763/
+  _cache: d88be7dc7c36a570741e382a31235f855f8567f3f9652fe3fa5190314c6af7b8
+- id: pubmed:17276908
+  title: 'Cell division: mid-level management.'
+  authors:
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2007-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17276908
+  _cache: d543cbd5d012fd0eab8de8237fe3d44fc01bbdd723bb0fb000a28e9d988840e5
+- id: pubmed:17072892
+  title: Cytoplasmic microtubule organization in fission yeast.
+  authors:
+  - Kenneth E Sawin
+  - P T Tran
+  publisher: Yeast (Chichester, England)
+  date: '2006-10-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17072892
+  _cache: 5f05b519543db9fbefe5146cd0e4d69e6e0186cb938bea2bfbed12b1f8ac26ab
+- id: pmc:PMC1679674
+  title: Noncore components of the fission yeast gamma-tubulin complex
+  authors:
+  - Andreas Anders
+  - "Paula C C Louren\xE7o"
+  - Kenneth E Sawin
+  publisher: Molecular biology of the cell
+  date: '2006-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1679674/
+  _cache: c1af05ccaca669e81dc4a6e438fd7c18da312bf81276b2834c50b0e0171c8bf3
+- id: pmc:PMC1276721
+  title: Multistep and multimode cortical anchoring of tea1p at cell tips in fission
+    yeast
+  authors:
+  - Hilary A Snaith
+  - Itaru Samejima
+  - Kenneth E Sawin
+  publisher: The EMBO journal
+  date: '2005-11-02'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1276721/
+  _cache: 87140406a654ea6517920a836eded2762c745fbf540ee755bc5b9edaf2b61c15
+- id: pubmed:16111936
+  title: 'Meiosis: organizing microtubule organizers.'
+  authors:
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2005-08-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16111936
+  _cache: 3e7672d7e02a98e0475853fe4ed5f618a1848b8334e8f568d14ddda26737c831
+- id: pubmed:15867927
+  title: 'Tea for three: control of fission yeast polarity.'
+  authors:
+  - Hilary A Snaith
+  - Kenneth E Sawin
+  publisher: Nature cell biology
+  date: '2005-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15867927
+  _cache: 4c2a7383843198b846c23626891276cdf38c51c4b472d39ca47cd45b45e10a8f
+- id: pmc:PMC1142446
+  title: Fission yeast mto2p regulates microtubule nucleation by the centrosomin-related
+    protein mto1p
+  authors:
+  - Itaru Samejima
+  - "Paula C C Louren\xE7o"
+  - Hilary A Snaith
+  - Kenneth E Sawin
+  publisher: Molecular biology of the cell
+  date: '2005-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1142446/
+  _cache: 11cf56f352a315dfd524f6edb7f85bbce436c11ecb7ebc4d85154ff2e854e26b
+- id: pubmed:15341759
+  title: 'Microtubule dynamics: faint speckle, hidden dragon.'
+  authors:
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2004-09-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15341759
+  _cache: 2d31a2284e3f3b486218361c1b10723082c5cbb9a0787acd7d4545c1bbabcce8
+- id: pubmed:15120067
+  title: Microtubule nucleation at non-spindle pole body microtubule-organizing centers
+    requires fission yeast centrosomin-related protein mod20p.
+  authors:
+  - Kenneth E Sawin
+  - Paula C C Lourenco
+  - Hilary A Snaith
+  publisher: 'Current biology : CB'
+  date: '2004-05-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15120067
+  _cache: 11769aabfb61479597dc234464d988721860cf8ad1871b960670998a1ba96f62
+- id: pubmed:15109489
+  title: The spindle gets bigger.
+  authors:
+  - Kenneth E Sawin
+  publisher: Cell
+  date: '2004-04-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15109489
+  _cache: 5561bc7c80552795d9e8ecc5cb10234fcd0e2fc912fa3832348d2a92bf6e063f
+- id: pubmed:14734657
+  title: Role of microtubules and tea1p in establishment and maintenance of fission
+    yeast cell polarity.
+  authors:
+  - Kenneth E Sawin
+  - Hilary A Snaith
+  publisher: Journal of cell science
+  date: '2004-01-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14734657
+  _cache: a3f23a256e252e3edc5caca2d23ae6b626cadc16cdc523744dcb2f186f7fb0a5
+- id: pubmed:12789340
+  title: Fission yeast mod5p regulates polarized growth through anchoring of tea1p
+    at cell tips.
+  authors:
+  - Hilary A Snaith
+  - Kenneth E Sawin
+  publisher: Nature
+  date: '2003-06-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12789340
+  _cache: a9a73d5c375ee8401772a97f9622431c79a7afdc629d52d2d49d8bd5894382e3
+- id: pubmed:11790314
+  title: 'Cell polarity: following formin function.'
+  authors:
+  - Kenneth E Sawin
+  publisher: 'Current biology : CB'
+  date: '2002-01-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11790314
+  _cache: 481546f8a3ccc10823d8b5db9066e2761f747e23266b05bfa35ba4b70fa7d12a
+- id: pubmed:11114532
+  title: 'Microtubule dynamics: the view from the tip.'
+  authors:
+  - K E Sawin
+  publisher: 'Current biology : CB'
+  date: '2000-11-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11114532
+  _cache: de09067685dff6093a48b6a4e704bd5cf246f7e26858b039f5dd9e048a93cb00
+- id: doi:10.1016/s0960-9822(00)00613-8
+  title: 'Cytokinesis: Sid signals septation'
+  authors:
+  - Kenneth E Sawin
+  publisher: Current Biology
+  date: '2000-08-01'
+  link: https://doi.org/fcxkfk
+  _cache: 1f5c547e47884414559af2f12179607ec6777718ec53e182955f6061825a4422
+- id: pubmed:10574765
+  title: Mis-specification of cortical identity in a fission yeast PAK mutant.
+  authors:
+  - K E Sawin
+  - M A Hajibagheri
+  - P Nurse
+  publisher: 'Current biology : CB'
+  date: '1999-11-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10574765
+  _cache: 7d260cbe87369d1fef3d37b7e218d6a41797c9a27412011d40f18da1a2006a5c
+- id: doi:10.1006/fgbi.1999.1137
+  title: Some Thoughts about Microtubules and Cell Polarity in Fission Yeast
+  authors:
+  - Kenneth E. Sawin
+  publisher: Fungal Genetics and Biology
+  date: '1999-07-01'
+  link: https://doi.org/dzd7sc
+  _cache: 3bb57bf9a58e9eca1f124d35bcda9ac5862d9b3ef0062187cbbbf78bbb05a06f
+- id: pubmed:9891378
+  title: GFP fusion proteins as probes for cytology in fission yeast.
+  authors:
+  - K E Sawin
+  publisher: Methods in cell biology
+  date: '1999-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9891378
+  _cache: 0bff4e4a52f32eab0521bc1d6812d637b5d46de29b635df9606db3e1928ff2df
+- id: pmc:PMC2133047
+  title: Regulation of cell polarity by microtubules in fission yeast
+  authors:
+  - K E Sawin
+  - P Nurse
+  publisher: The Journal of cell biology
+  date: '1998-07-27'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2133047/
+  _cache: 8d766e6f0ad36f0e422525219e1085412aac1f23fe1d746f83f4d722ef66fb47
+- id: pubmed:9661145
+  title: Caged fluorescent probes.
+  authors:
+  - T J Mitchison
+  - K E Sawin
+  - J A Theriot
+  - K Gee
+  - A Mallavarapu
+  publisher: Methods in enzymology
+  date: '1998-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9661145
+  _cache: f858c7bcc8d4b8482bbff4d742ab425bad2270c34535eb7544ef1974facfbb49
+- id: pubmed:9368737
+  title: Photoactivation of green fluorescent protein.
+  authors:
+  - K E Sawin
+  - P Nurse
+  publisher: 'Current biology : CB'
+  date: '1997-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9368737
+  _cache: 0e1e6691c2fc6022fa506a981bb9637e19e6ae724273a7d4b3bacbf1057326ba
+- id: pmc:PMC26371
+  title: Identification of fission yeast nuclear markers using random polypeptide
+    fusions with green fluorescent protein
+  authors:
+  - K E Sawin
+  - P Nurse
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '1996-12-24'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC26371/
+  _cache: ac53c10f5cc17d2264edcf1689368b2d9527fc50be940f1a614ac53a725d2150
+- id: pmc:PMC41929
+  title: Mutations in the kinesin-like protein Eg5 disrupting localization to the
+    mitotic spindle
+  authors:
+  - K E Sawin
+  - T J Mitchison
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '1995-05-09'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC41929/
+  _cache: 59cab5483a379e2955615d1799b734c1b6ab93dfd9d542972d04e167177a7c74
+- id: pubmed:7962196
+  title: Kinesin-related proteins in eukaryotic flagella.
+  authors:
+  - L A Fox
+  - K E Sawin
+  - W S Sale
+  publisher: Journal of cell science
+  date: '1994-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7962196
+  _cache: 2be2022fdb122aa1b1554fd095d57c5d38b9b0b6ed421b0fe7953939d4e6b480
+- id: pmc:PMC301027
+  title: Microtubule flux in mitosis is independent of chromosomes, centrosomes, and
+    antiparallel microtubules
+  authors:
+  - K E Sawin
+  - T J Mitchison
+  publisher: Molecular biology of the cell
+  date: '1994-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC301027/
+  _cache: fda7a7d169bdc91b32198ac0457b7ec7aecaca6eeaa9a015c13d5b6a1d879801
+- id: pmc:PMC46982
+  title: Inhibition of anaphase spindle elongation in vitro by a peptide antibody
+    that recognizes kinesin motor domain
+  authors:
+  - C J Hogan
+  - H Wein
+  - L Wordeman
+  - J M Scholey
+  - K E Sawin
+  - W Z Cande
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '1993-07-15'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC46982/
+  _cache: c3a683c09a6af9c087da2be0ec6e44d8d657f5da86dd511b2c79cc5fb5150057
+- id: pubmed:8357342
+  title: Meiosis, mitosis and microtubule motors.
+  authors:
+  - K E Sawin
+  - S A Endow
+  publisher: 'BioEssays : news and reviews in molecular, cellular and developmental
+    biology'
+  date: '1993-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8357342
+  _cache: 1b3515a7a62365c0f8a3d6521272d932e6e310cfb08db3fb16a8c8a004e8fafd
+- id: pubmed:1406972
+  title: Mitotic spindle organization by a plus-end-directed microtubule motor.
+  authors:
+  - K E Sawin
+  - K LeGuellec
+  - M Philippe
+  - T J Mitchison
+  publisher: Nature
+  date: '1992-10-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1406972
+  _cache: a3888b2465db9e91942d727a015e5bbba7b3787965b78f9515e80fad8c15a0dd
+- id: pubmed:1629247
+  title: Evidence for kinesin-related proteins in the mitotic apparatus using peptide
+    antibodies.
+  authors:
+  - K E Sawin
+  - T J Mitchison
+  - L G Wordeman
+  publisher: Journal of cell science
+  date: '1992-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1629247
+  _cache: 3a6a91084d8b8feabd83c2ff4b580418ab23ebef5c5167b6a5b1fe90522ee856
+- id: pubmed:14731543
+  title: Motor proteins in cell division.
+  authors:
+  - K E Sawin
+  - J M Scholey
+  publisher: Trends in cell biology
+  date: '1991-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14731543
+  _cache: 660a03eec972feffa7f24757b20a0b75871a57f21c14d79c6b1dc6f08cf50c53
+- id: pmc:PMC2288886
+  title: Poleward microtubule flux mitotic spindles assembled in vitro
+  authors:
+  - K E Sawin
+  - T J Mitchison
+  publisher: The Journal of cell biology
+  date: '1991-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2288886/
+  _cache: 290ee840e6c8f12cbcd9e51466d5b9e8aa4fdecadd3a17dec4f605bc1fbd4e26
+- id: pmc:PMC2288871
+  title: Mitotic spindle assembly by two different pathways in vitro
+  authors:
+  - K E Sawin
+  - T J Mitchison
+  publisher: The Journal of cell biology
+  date: '1991-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2288871/
+  _cache: 2c0397ec698bdde1cad0fa29e6e641988e3d2dacdf154fe75af97c4164c86cc8
+- id: pubmed:2379239
+  title: Real-time visualization of cell cycle-dependent changes in microtubule dynamics
+    in cytoplasmic extracts.
+  authors:
+  - L D Belmont
+  - A A Hyman
+  - K E Sawin
+  - T J Mitchison
+  publisher: Cell
+  date: '1990-08-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2379239
+  _cache: 53ffbc29daa4f407475d467edd704ec2d0d2efda9a1fb039683cd833f1335e1b
+- id: pubmed:2198113
+  title: 'Tubulin flux in the mitotic spindle: where does it come from, where is it
+    going?'
+  authors:
+  - T J Mitchison
+  - K E Sawin
+  publisher: Cell motility and the cytoskeleton
+  date: '1990-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2198113
+  _cache: 6a4784a3810b0f92d2f07143f52395c161a6bc31c8f923f57e2e7d0351c1fa7b
