@@ -1,7 +1,7 @@
 ---
 name: Gaurav Barve
 image: images/member.jpg
-description: Post-Doctoral Research Associate
+description: Postdoctoral Research Associate
 role: postdoc
 aliases:
   - G Barve
