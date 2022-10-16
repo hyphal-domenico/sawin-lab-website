@@ -1,6 +1,6 @@
 ---
 name: Prof. Ken Sawin
-image: images/member.jpg
+image: images/ken.jpg
 description: Principal Investigator
 role: pi
 aliases:

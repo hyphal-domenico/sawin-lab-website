@@ -60,16 +60,7 @@ An important component of our work involves developing new tools in genetics, mi
 
 ## Funding
 
-Current and past funders of our work.
+Current funders of our work.
 {:.center}
 
-{%
-  include gallery.html
-
-
-  image1="images/Wellcome_Trust_logo.png"
-  link1="https://wellcome.org/"
-  tooltip1="Wellcome Trust"
-
-
-%}
+{% include figure.html image="images/wellcome.svg" width= "135px" link="https://wellcome.org/" %}

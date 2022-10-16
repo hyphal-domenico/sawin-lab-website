@@ -1,6 +1,6 @@
 ---
 name: Ye Dee Tay
-image: images/member.jpg
+image: images/tay.jpg
 description: Postdoctoral Research Associate
 role: postdoc
 aliases:

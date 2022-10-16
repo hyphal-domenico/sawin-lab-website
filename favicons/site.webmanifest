@@ -1,10 +1,10 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<link rel="shortcut icon" type="image/png" href="/logo_favicon.png">
 {
     "name": "",
     "short_name": "",
     "icons": [
         {
-            "src": "favicons/android.png",
+            "src": "favicons/logo_android.png",
             "sizes": "512x512",
             "type": "image/png"
         }
