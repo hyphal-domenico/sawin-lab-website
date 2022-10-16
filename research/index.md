@@ -5,7 +5,7 @@ nav:
   tooltip: About our research
 ---
 
-# Our Research
+# <i class="fas fa-microscope"></i>Our Research
 
 {% capture text %}
 Our laboratory is interested in two main areas related to cellular and cytoskeletal organisation: 1) the molecular mechanisms underlying microtubule nucleation; and 2) the regulation of cell polarity, in a systems context, under both normal and stress conditions. In both areas we use the fission yeast _Schizosaccharomyces pombe_ as a model eukaryotic organism. We combine classical and molecular genetic analysis with live-cell fluorescence microscopy, biochemistry, proteomics and computational modelling.
@@ -58,7 +58,7 @@ An important component of our work involves developing new tools in genetics, mi
 
 {% include section.html %}
 
-## Funding
+## <i class="fas fa-coins"></i>Funding
 
 Current funders of our work.
 {:.center}

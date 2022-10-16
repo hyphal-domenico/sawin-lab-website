@@ -7,10 +7,8 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are a diverse group of people coming from throughout the globe.
+{:.center}
 
 {% include section.html %}
 
@@ -36,7 +34,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## Join
+## <i class="fas fa-user-plus"></i>Join
 
 #### PhD Projects
 {:.left}
@@ -68,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 {% include section.html %}
-## Past members
+## <i class="fas fa-scroll"></i>Past members
 {:.left}
 
 {% capture col1content %}

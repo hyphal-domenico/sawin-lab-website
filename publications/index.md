@@ -7,7 +7,7 @@ nav:
 
 {% include section.html %}
 
-# <i class="fas fa-microscope"></i>Publications
+# <i class="fas fa-book"></i>Publications
 
 
 
