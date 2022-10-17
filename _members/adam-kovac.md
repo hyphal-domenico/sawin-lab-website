@@ -1,6 +1,6 @@
 ---
 name: Adam Kovac
-image: images/member.jpg
+image: images/adam.jpg
 description: PhD Student
 role: phd
 aliases:
