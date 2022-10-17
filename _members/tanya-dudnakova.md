@@ -7,7 +7,7 @@ aliases:
   - T. Dudnakova
   - T Dudnakova
 links:
-  email:
+  email: tanya.dudnakova@ed.ac.uk
   orcid:
 ---
 

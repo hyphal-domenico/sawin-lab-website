@@ -7,7 +7,7 @@ aliases:
   - A. Gupta
   - A Gupta
 links:
-  email:
+  email: a.gupta-41@sms.ed.ac.uk
   orcid:
 ---
 

@@ -7,7 +7,7 @@ aliases:
   - J. Le Cornu
   - J Le Cornu
 links:
-  email:
+  email: j.d.le-cornu@sms.ed.ac.uk
   orcid:
 ---
 

@@ -7,7 +7,7 @@ aliases:
   - A. Kovac
   - A Kovac
 links:
-  email:
+  email: adam.kovac@ed.ac.uk
   orcid:
 ---
 

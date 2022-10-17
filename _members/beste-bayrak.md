@@ -7,7 +7,7 @@ aliases:
   - B Bayrak
   - B. Bayrak
 links:
-  email:
+  email: b.bayrak@sms.ed.ac.uk
   orcid:
 ---
 
