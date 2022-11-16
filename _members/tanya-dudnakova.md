@@ -1,6 +1,6 @@
 ---
 name: Tanya Dudnakova
-image: images/member.jpg
+image: images/tanya.jpeg
 description: Postdoctoral Research Associate
 role: postdoc
 aliases:
