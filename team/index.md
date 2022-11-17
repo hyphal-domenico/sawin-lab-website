@@ -39,7 +39,7 @@ We are a diverse group of people coming from throughout the globe.
 #### PhD Projects
 {:.left}
 
-If you are interested in our research and want to undertake a PhD project with us do not hesitate to contact. We take on students through [EastBio](http://www.eastscotbiodtp.ac.uk), within the [Wellcome Four Year PhD Programme in Integrative Cell Mechanisms](https://www.wcb.ed.ac.uk/iCMPhD), and the [Darwin Trust of Edinburgh](https://darwintrust.bio.ed.ac.uk/edinburgh).
+If you are interested in our research and want to undertake a PhD project with us, do not hesitate to contact. The main sources of recent PhD student funding have been [EastBio](http://www.eastscotbiodtp.ac.uk), the [Wellcome Four Year PhD Programme in Integrative Cell Mechanisms](https://www.wcb.ed.ac.uk/iCMPhD), and the [Darwin Trust of Edinburgh](https://darwintrust.bio.ed.ac.uk/edinburgh).
 
 Projects for 2023 start:  
 - EastBio: [Understanding hyphal growth of filamentous fungi through omics approaches](https://www.findaphd.com/phds/project/eastbio-understanding-hyphal-growth-of-filamentous-fungi-through-omics-approaches/?p148077). Deadline: December 5<sup>th</sup> 2022.
