@@ -43,17 +43,7 @@ If you are interested in our research and want to undertake a PhD project with u
 
 Projects for 2023 start:  
 - EastBio: [Understanding hyphal growth of filamentous fungi through omics approaches](https://www.findaphd.com/phds/project/eastbio-understanding-hyphal-growth-of-filamentous-fungi-through-omics-approaches/?p148077). Deadline: December 5<sup>th</sup> 2022.
-- Darwin Trust: contact Ken. Deadline: January 2023.
-
-#### Postdocs
-{:.left}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-
-#### Undergraduates
-{:.left}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Darwin Trust: [Eukaryotic cell polarity regulation and its regulation by stress](https://www.findaphd.com/phds/project/eukaryotic-cell-polarity-regulation-and-its-regulation-by-stress/?p150365). Deadline: January 2023.
 
 {%
   include link.html

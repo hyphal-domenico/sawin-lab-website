@@ -4,7 +4,7 @@ title: Home
 
 # Welcome to the Sawin Lab!
 
-We are interested in cell polarity and stress. We mainly use the yeast _Schizosaccharomyces pombe_ as a model organism and apply a variety of techinques including genetics, microscopy, and proteomics.
+We are interested in eukaryotic cellular organisation. We mainly use the yeast _Schizosaccharomyces pombe_ as a model organism, and we combine classical and molecular genetic analysis with live-cell fluorescence microscopy, biochemistry, proteomics/phosphoproteomics, and structural biology methods.
 
 {:.center}
 
@@ -16,8 +16,7 @@ We are interested in cell polarity and stress. We mainly use the yeast _Schizosa
 
 
 {% capture text %}
-Our laboratory is interested in two main areas related to cellular and cytoskeletal organisation: 1) the molecular mechanisms underlying microtubule nucleation; and 2) the regulation of cell polarity, in a systems context, under both normal and stress conditions. In both areas we use the fission yeast _Schizosaccharomyces pombe_ as a model eukaryotic organism. We combine classical and molecular genetic analysis with live-cell fluorescence microscopy, biochemistry, proteomics and computational modelling.
-
+Our current main interest is the regulation of cell polarity, under both normal and stress conditions. We also continue to study the molecular mechanisms underlying nucleation of the microtubule cytoskeleton.
 
 {:.center}
 
