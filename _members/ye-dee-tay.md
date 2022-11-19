@@ -1,5 +1,5 @@
 ---
-name: Ye Dee Tay
+name: Dr. Ye Dee Tay
 image: images/tay.jpg
 description: Postdoctoral Research Associate
 role: postdoc

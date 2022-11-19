@@ -1,5 +1,5 @@
 ---
-name: Tanya Dudnakova
+name: Dr. Tanya Dudnakova
 image: images/tanya.jpeg
 description: Postdoctoral Research Associate
 role: postdoc

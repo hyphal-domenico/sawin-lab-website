@@ -1,5 +1,5 @@
 ---
-name: Gaurav Barve
+name: Dr. Gaurav Barve
 image: images/gaurav.jpg
 description: Postdoctoral Research Associate
 role: postdoc
