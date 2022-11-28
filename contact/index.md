@@ -9,6 +9,7 @@ nav:
 
 Our lab is part of the [School of Biological Sciences](https://www.ed.ac.uk/biology) at the University of Edinburgh.
 We are part of the [Wellcome Centre for Cell Biology](https://www.wcb.ed.ac.uk), and are located on the 4<sup>th</sup> floor of the Michael Swann building.
+{:.left}
 
 {%
   include link.html

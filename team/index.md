@@ -40,10 +40,12 @@ We are a diverse group of people coming from throughout the globe.
 {:.left}
 
 If you are interested in our research and want to undertake a PhD project with us, do not hesitate to contact. The main sources of recent PhD student funding have been [EastBio](http://www.eastscotbiodtp.ac.uk), the [Wellcome Four Year PhD Programme in Integrative Cell Mechanisms](https://www.wcb.ed.ac.uk/iCMPhD), and the [Darwin Trust of Edinburgh](https://darwintrust.bio.ed.ac.uk/edinburgh).
+{:.left}
 
-Projects for 2023 start:  
+Projects for 2023 start:
 - EastBio: [Understanding hyphal growth of filamentous fungi through omics approaches](https://www.findaphd.com/phds/project/eastbio-understanding-hyphal-growth-of-filamentous-fungi-through-omics-approaches/?p148077). Deadline: December 5<sup>th</sup> 2022.
 - Darwin Trust: [Eukaryotic cell polarity regulation and its regulation by stress](https://www.findaphd.com/phds/project/eukaryotic-cell-polarity-regulation-and-its-regulation-by-stress/?p150365). Deadline: January 18<sup>th</sup> 2023.
+
 
 {%
   include link.html
@@ -67,8 +69,6 @@ Claudia Bicho
 Lynda Groocock  
 Itaru Samejima  
 
-
-{:.center}
 {% endcapture %}
 
 {% capture col2content %}
@@ -79,8 +79,6 @@ Weronika Borek
 Delyan Mutavchiev  
 Xun Bao  
 
-
-{:.center}
 
 {% endcapture %}
 

@@ -5,7 +5,6 @@ title: Home
 # Welcome to the Sawin Lab!
 
 We are interested in eukaryotic cellular organisation. We mainly use the yeast _Schizosaccharomyces pombe_ as a model organism, and we combine classical and molecular genetic analysis with live-cell fluorescence microscopy, biochemistry, proteomics/phosphoproteomics, and structural biology methods.
-
 {:.center}
 
 {% include section.html full=true %}
@@ -17,8 +16,7 @@ We are interested in eukaryotic cellular organisation. We mainly use the yeast _
 
 {% capture text %}
 Our current main interest is the regulation of cell polarity, under both normal and stress conditions. We also continue to study the molecular mechanisms underlying nucleation of the microtubule cytoskeleton.
-
-{:.center}
+{:.left}
 
 {%
   include link.html

@@ -12,3 +12,4 @@ links:
 ---
 
 Tanya
+{:.left}
