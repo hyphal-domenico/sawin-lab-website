@@ -88,6 +88,7 @@ Hayley Johnson
 Su Ling Leong  
 Ana Rodriguez  
 Ye Dee Tay  
+James Le Cornu  
 
 {:.center}
 
