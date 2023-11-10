@@ -67,29 +67,28 @@ Vicky Miller
 Claudia Bicho  
 Lynda Groocock  
 Itaru Samejima  
+Hilary Snaith  
 
 {% endcapture %}
 
 {% capture col2content %}
 
-Hilary Snaith  
 Eric Lynch  
 Weronika Borek  
 Delyan Mutavchiev  
 Xun Bao  
-
+Harish Thakur  
+Sanju Ashraf  
 
 {% endcapture %}
 
 {% capture col3content %}
 
-
-Harish Thakur  
-Sanju Ashraf  
 Hayley Johnson  
 Su Ling Leong  
-Ana Rodriguez
-Ye Dee Tay
+Ana Rodriguez  
+Ye Dee Tay  
+James Le Cornu  
 
 {:.center}
 
