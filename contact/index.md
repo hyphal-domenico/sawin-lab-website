@@ -35,7 +35,7 @@ We are located on the 4<sup>th</sup> floor of the Michael Swann building.
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/QJKfUi5Q4hoj94gB9)"
+  link="https://maps.app.goo.gl/QJKfUi5Q4hoj94gB9"
   style="button"
 %}
 {:.center}
