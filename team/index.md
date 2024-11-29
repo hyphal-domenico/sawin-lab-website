@@ -43,7 +43,7 @@ If you are interested in our research and want to undertake a PhD project with u
 {:.left}
 
 Projects for 2025 start:
-- EastBio: to be advertised on [FindAPhD.com]([https://www.findaphd.com/phds/project/eastbio-hyphal-growth-of-filamentous-fungi-regulation-and-omics-analysis/?p161798](https://www.findaphd.com/) soon.
+- EastBio: to be advertised on [FindAPhD.com](https://www.findaphd.com/) soon.
 
 
 {%
