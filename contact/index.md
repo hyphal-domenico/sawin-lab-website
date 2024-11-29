@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [School of Biological Sciences](https://www.ed.ac.uk/biology) at the University of Edinburgh.
-We are part of the [Wellcome Centre for Cell Biology](https://www.wcb.ed.ac.uk), and are located on the 4<sup>th</sup> floor of the Michael Swann building.
+We are located on the 4<sup>th</sup> floor of the Michael Swann building.
 {:.left}
 
 {%
@@ -49,8 +49,7 @@ We are part of the [Wellcome Centre for Cell Biology](https://www.wcb.ed.ac.uk),
 {:.left}
 
 Kenneth E. Sawin, Ph.D.  
-Professor of Cell Biology  
-The Wellcome Trust Centre for Cell Biology  
+Professor of Cell Biology,
 School of Biological Sciences, University of Edinburgh  
 Michael Swann Building, Max Born Crescent  
 Edinburgh EH9  3BF  
