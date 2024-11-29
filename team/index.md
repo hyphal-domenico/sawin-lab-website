@@ -43,7 +43,7 @@ If you are interested in our research and want to undertake a PhD project with u
 {:.left}
 
 Projects for 2025 start:
-- EastBio: to be advertised on [FindAPhD.com]([https://www.findaphd.com/phds/project/eastbio-hyphal-growth-of-filamentous-fungi-regulation-and-omics-analysis/?p161798](https://www.findaphd.com/) soon.
+- EastBio: to be advertised on [FindAPhD.com](https://www.findaphd.com/) soon.
 
 
 {%
@@ -69,23 +69,23 @@ Vicky Miller
 Claudia Bicho  
 Lynda Groocock  
 Itaru Samejima  
-Hilary Snaith  
 
 {% endcapture %}
 
 {% capture col2content %}
 
+Hilary Snaith  
 Delyan Mutavchiev  
 Xun Bao  
 Harish Thakur  
 Sanju Ashraf  
 Hayley Johnson  
-Su Ling Leong  
 
 {% endcapture %}
 
 {% capture col3content %}
 
+Su Ling Leong  
 Ana Rodriguez  
 Ye Dee Tay  
 James Le Cornu  
