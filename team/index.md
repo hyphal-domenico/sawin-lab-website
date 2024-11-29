@@ -39,11 +39,11 @@ We are a diverse group of people coming from throughout the globe.
 #### PhD Projects
 {:.left}
 
-If you are interested in our research and want to undertake a PhD project with us, do not hesitate to contact. The main sources of recent PhD student funding have been [EastBio](http://www.eastscotbiodtp.ac.uk), the [Wellcome Four Year PhD Programme in Integrative Cell Mechanisms](https://www.wcb.ed.ac.uk/iCMPhD), and the [Darwin Trust of Edinburgh](https://darwintrust.bio.ed.ac.uk/edinburgh).
+If you are interested in our research and want to undertake a PhD project with us, do not hesitate to contact. The main sources of recent PhD student funding have been [EastBio](http://www.eastscotbiodtp.ac.uk) and the [Darwin Trust of Edinburgh](https://darwintrust.bio.ed.ac.uk/edinburgh).
 {:.left}
 
-Projects for 2024 start:
-- EastBio: [Hyphal growth of filamentous fungi: regulation and omics analysis](https://www.findaphd.com/phds/project/eastbio-hyphal-growth-of-filamentous-fungi-regulation-and-omics-analysis/?p161798). Deadline: November 27<sup>th</sup> 2023.
+Projects for 2025 start:
+- EastBio: to be advertised on [FindAPhD.com]([https://www.findaphd.com/phds/project/eastbio-hyphal-growth-of-filamentous-fungi-regulation-and-omics-analysis/?p161798](https://www.findaphd.com/) soon.
 
 
 {%
@@ -62,6 +62,8 @@ Projects for 2024 start:
 
 {% capture col1content %}
 
+Eric Lynch  
+Weronika Borek  
 Andreas Anders  
 Vicky Miller  
 Claudia Bicho  
@@ -73,22 +75,22 @@ Hilary Snaith
 
 {% capture col2content %}
 
-Eric Lynch  
-Weronika Borek  
 Delyan Mutavchiev  
 Xun Bao  
 Harish Thakur  
 Sanju Ashraf  
+Hayley Johnson  
+Su Ling Leong  
 
 {% endcapture %}
 
 {% capture col3content %}
 
-Hayley Johnson  
-Su Ling Leong  
 Ana Rodriguez  
 Ye Dee Tay  
 James Le Cornu  
+Tanya Dudnakova  
+Gaurav Barve
 
 {:.center}
 
