@@ -35,7 +35,7 @@ We are located on the 4<sup>th</sup> floor of the Michael Swann building.
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps?q=Michael+Swann+Building,+King%27s+Buildings,+Edinburgh,+UK&ll=55.924634,-3.17462&spn=0.029046,0.092182&sll=37.0796465826016,-95.76678664320204&sspn=76.88164146107661,102.38890067050892&t=m&dg=opt&hq=Michael+Swann+Building,+King%27s+Buildings,&hnear=Edinburgh,+City+of+Edinburgh,+United+Kingdom&z=14"
+  link="https://maps.app.goo.gl/QJKfUi5Q4hoj94gB9)"
   style="button"
 %}
 {:.center}
@@ -49,7 +49,7 @@ We are located on the 4<sup>th</sup> floor of the Michael Swann building.
 {:.left}
 
 Kenneth E. Sawin, Ph.D.  
-Professor of Cell Biology,
+Professor of Cell Biology,  
 School of Biological Sciences, University of Edinburgh  
 Michael Swann Building, Max Born Crescent  
 Edinburgh EH9  3BF  
