@@ -43,7 +43,7 @@ If you are interested in our research and want to undertake a PhD project with u
 {:.left}
 
 Projects for 2025 start:
-- EastBio: to be advertised on [FindAPhD.com](https://www.findaphd.com/) soon.
+- EastBio: [Spatial regulation of mRNAs in filamentous fungi](https://www.findaphd.com/phds/project/eastbio-spatial-regulation-of-mrnas-in-filamentous-fungi/?p179680). Deadline: January 17, 2025.
 
 
 {%
