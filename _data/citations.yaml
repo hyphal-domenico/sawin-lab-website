@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.12688/wellcomeopenres.23086.1
+  title: Improved gene editing and fluorescent-protein tagging in Aspergillus nidulans
+    using a Golden Gate-based CRISPR-Cas9 plasmid system
+  authors:
+  - Domenico Modaffari
+  - "Aim\xE9e Finlayson"
+  - Yuyang Miao
+  - Edward W. J. Wallace
+  - Kenneth E. Sawin
+  publisher: Wellcome Open Research
+  date: '2024-10-17'
+  link: https://doi.org/g8t26t
+  _cache: 6d0998ec323a61053102679813d7a9d57f9c6cf948de1cf354d020fe380234cf
 - id: doi:10.1101/754457
   title: Architecture of the Mto1/2 microtubule nucleation complex
   authors:
